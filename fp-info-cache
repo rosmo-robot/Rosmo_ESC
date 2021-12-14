@@ -1,4 +1,4 @@
-19815218934486667
+19833257332596193
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -84539,6 +84539,69 @@ BQ25887RGER
 25
 25
 runger
+CC_Attribution_Logo_5mm
+
+
+0
+0
+0
+runger
+CC_Attribution_Logo_7mm
+
+
+0
+0
+0
+runger
+CC_Attribution_Logo_10mm
+
+
+0
+0
+0
+runger
+CC_Logo_5mm
+
+
+0
+0
+0
+runger
+CC_Logo_7mm
+
+
+0
+0
+0
+runger
+CC_Logo_10mm
+
+
+0
+0
+0
+runger
+CC_Sharealike_Logo_5mm
+
+
+0
+0
+0
+runger
+CC_Sharealike_Logo_7mm
+
+
+0
+0
+0
+runger
+CC_Sharealike_Logo_10mm
+
+
+0
+0
+0
+runger
 CMC_Filter_0504
 CMC or Filter 0504 (1210 metric)
 CMC, Filter, 0504, KCZ1210AH
@@ -84672,6 +84735,13 @@ FemtoFET YJN3 0.7x0.6mm, e.g. CSD25501F3T
 3
 3
 runger
+Grove_A2006WF-04A
+Horizontal SMD Grove connector, 4 pin, A2006WF-04A
+Grove, A2006WF-04A
+0
+6
+5
+runger
 INA199A1RSWR
 
 
@@ -84797,6 +84867,13 @@ STM32G491KEU6
 0
 33
 33
+runger
+STM32G491MES6
+
+
+0
+80
+80
 runger
 SolderJumper-Circular-3mm
 SMD Solder Jumper, 3mm, circular Pads, 0.75mm gap, open
