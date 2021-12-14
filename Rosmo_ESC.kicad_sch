@@ -4337,7 +4337,7 @@
     (uuid 71f8fed2-2a95-4d9d-a543-0258775d7cd9)
   )
   (text "Red sections denote optional\nfunctionality that could be\nomitted to reduce price of\na production run."
-    (at 191.77 40.005 0)
+    (at 224.79 109.855 0)
     (effects (font (size 2 2)) (justify left bottom))
     (uuid c4f48511-70aa-4e75-92ff-8dcc3ac3d9f5)
   )
