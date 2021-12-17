@@ -5,6 +5,12 @@ Design for Rosmo ESC - in M5Stack format.
 
 [Schematic (PDF)](./Rosmo_ESC.pdf)
 
+Top:
+![3d render top](./3dfront.jpeg "3D render of top")
+
+Bottom:
+![3d render bottom](./3dback.jpeg "3D render of back")
+
 ## Features
 
 * Dual brushless motor ESC in M5-Stack module format
@@ -18,7 +24,7 @@ Design for Rosmo ESC - in M5Stack format.
 
 :warning: In development. 
 
-At the moment, the schematic is more or less complete, but the board is only partially routed. 
+At the moment, schematic is complete and board has been routed. The BOM and finishing touches are not complete yet though.
 
 **Do not use this for anything yet!**
 
