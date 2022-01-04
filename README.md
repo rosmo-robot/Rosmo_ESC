@@ -54,5 +54,4 @@ Functionality supported by this pinout:
 
 The design uses various custom symbols and footprints. They should load from the project-internal cache when you open the project. If they do not, you can find [a kicad library](https://github.com/runger1101001/kicad-lib-runger) here which contains all the symbols/footprints used, among others.
 
-Currently uses KiCad 5.99 (nightly), which makes it a bit more complicated to open the files (needs same or newer nightly build of KiCad).
-This should improve with the upcoming release of KiCad 6.
+Uses KiCad 6.
