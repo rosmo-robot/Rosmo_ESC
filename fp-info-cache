@@ -1,4 +1,4 @@
-19833257332630863
+19918261676539169
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -5757,6 +5757,27 @@ Capacitor_THT
 C_Rect_L41.5mm_W40.0mm_P37.50mm_MKS4
 C, Rect series, Radial, pin pitch=37.50mm, , length*width=41.5*40mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
 C Rect series Radial pin pitch 37.50mm  length 41.5mm width 40mm Capacitor
+0
+2
+2
+Capacitor_THT
+DX_5R5HxxxxU_D11.5mm_P10.00mm
+CP, Radial series, Radial, pin pitch=10.00mm, diameter=11.5mm, Supercapacitor, http://www.elna.co.jp/en/capacitor/double_layer/catalog/pdf/dx_e.pdf
+CP Radial series Radial pin pitch 10.00mm diameter 11.5mm supercapacitor
+0
+2
+2
+Capacitor_THT
+DX_5R5VxxxxU_D11.5mm_P5.00mm
+CP, Radial series, Radial, pin pitch=5.00mm, diameter=11.5mm, Supercapacitor, http://www.elna.co.jp/en/capacitor/double_layer/catalog/pdf/dx_e.pdf
+CP Radial series Radial pin pitch 5.00mm diameter 11.5mm supercapacitor
+0
+2
+2
+Capacitor_THT
+DX_5R5VxxxxU_D19.0mm_P5.00mm
+CP, Radial series, Radial, pin pitch=5.00mm, diameter=19mm, Supercapacitor, http://www.elna.co.jp/en/capacitor/double_layer/catalog/pdf/dx_e.pdf
+CP Radial series Radial pin pitch 5.00mm diameter 19mm supercapacitor
 0
 2
 2
