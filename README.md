@@ -22,18 +22,18 @@ Bottom:
 
 ## Status
 
-:warning: In development. 
+:warning: In development, prototype boards on order.
 
-At the moment, schematic is complete and board has been routed. The BOM and finishing touches are not complete yet though.
+At the moment, schematic is complete and board has been routed. The BOM is complete but my have to change due to component availability.
 
 **Do not use this for anything yet!**
 
 
 ## Pinout
 
-Preliminary pinout, based on STM32G491MET6, which is probably not the final MCU for this design, but a suitable (if maybe overpowered and therefore expensive) one that was available in the current semiconductor shortage. This MCU is 12x12mm LQFP-80, which is more than enough pins.
+Prototype pinout, based on STM32G491MET6, which is probably not the final MCU for this design, but a suitable (if maybe overpowered and therefore expensive) one that was available in the current semiconductor shortage. This MCU is 12x12mm LQFP-80, which is more than enough pins.
 
-![sample pinout](./pinout.png "G474 all pins used")
+![pinout](./pinout.jpg "STM32G491MET pinout")
 
 Functionality supported by this pinout:
 
