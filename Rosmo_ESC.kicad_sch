@@ -4892,6 +4892,11 @@
     (effects (font (size 2 2)) (justify left bottom))
     (uuid c4f48511-70aa-4e75-92ff-8dcc3ac3d9f5)
   )
+  (text "LED pin type FT_da is 5V tolerant.\nSet to open drain."
+    (at 168.91 71.12 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid cef193f8-2ef3-4354-968c-c85e0a458480)
+  )
   (text "Note: use the internal\npull-downs on ADDR1 and ADDR2"
     (at 247.65 70.485 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
