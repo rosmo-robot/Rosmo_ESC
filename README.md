@@ -5,13 +5,14 @@ Design for [Rosmo](https://rosmo.io) ESC - in M5Stack format.
 
 [Schematic (PDF)](./Rosmo_ESC.pdf)
 
-Top:
-![3d render top](./3dfront.jpeg "3D render of top")
-![Photo](https://raw.githubusercontent.com/rosmo-robot/Rosmo_ESC/master/esc-bottom.jpeg)
 
-Bottom:
+Top:
 ![3d render bottom](./3dback.jpeg "3D render of back")
 ![Photo](https://github.com/rosmo-robot/Rosmo_ESC/blob/master/esc-top.jpeg)
+
+Bottom:
+![3d render top](./3dfront.jpeg "3D render of top")
+![Photo](https://raw.githubusercontent.com/rosmo-robot/Rosmo_ESC/master/esc-bottom.jpeg)
 
 ## Features
 
